@@ -2,6 +2,9 @@
 
 Alguns caminhos ruins ao criar um guia de estilos
 
+- padrão de nomes
+- limites de modificações
+
 ## Implementações
 
 ### Resets
