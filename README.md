@@ -18,9 +18,9 @@ Os resets devem tirar tudo do elemento, assim o estilo fica todo ao cargo do com
 .icon {
   width: 100%;
   max-width: 30px;
-  background: transparent; // remover o background do botão
-  padding: 0; // remover o padding do botão
-  border: 0; // remover o padding do botão
+  background: transparent; /* remover o background do botão */
+  padding: 0; /* remover o padding do botão */
+  border: 0; /* remover o padding do botão */
 }
 ```
 
